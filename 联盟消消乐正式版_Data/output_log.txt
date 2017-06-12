@@ -1,0 +1,216 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     1980 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tory xu\Desktop\联盟消消乐正式版_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.142451 ms
+Initializing Google Analytics 0.1.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No tracking code set for 'Other' platforms - hits will not be set
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Created DummyClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dummy CreateBannerView
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dummy LoadAd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.981236 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 370.
+Total: 0.333037 ms (FindLiveObjects: 0.033622 ms CreateObjectMapping: 0.032206 ms MarkObjects: 0.248097 ms  DeleteObjects: 0.018757 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SoundMusicButtonControll.SetButtonState () [0x00000] in <filename unknown>:0 
+  at SoundMusicButtonControll.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Dummy HideBannerView
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.479908 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 937.
+Total: 0.524508 ms (FindLiveObjects: 0.069368 ms CreateObjectMapping: 0.042824 ms MarkObjects: 0.389311 ms  DeleteObjects: 0.021589 ms)
+
+Created DummyClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dummy CreateIntersitialAd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dummy LoadAd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dummy ShowBannerView
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Logging screen.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No tracking code set for 'Other' platforms - hit will not be sent.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.846925 ms
+
+Unloading 63 unused Assets to reduce memory usage. Loaded Objects now: 662.
+Total: 1.013270 ms (FindLiveObjects: 0.061935 ms CreateObjectMapping: 0.063351 ms MarkObjects: 0.516368 ms  DeleteObjects: 0.370907 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SoundMusicButtonControll.SetButtonState () [0x00000] in <filename unknown>:0 
+  at SoundMusicButtonControll.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Dummy HideBannerView
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.333391 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 937.
+Total: 0.581843 ms (FindLiveObjects: 0.052380 ms CreateObjectMapping: 0.045301 ms MarkObjects: 0.457263 ms  DeleteObjects: 0.026190 ms)
+
+Created DummyClient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dummy CreateIntersitialAd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dummy LoadAd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dummy ShowBannerView
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Logging screen.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No tracking code set for 'Other' platforms - hit will not be sent.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0|:RuleChecker().0 Pointer:0,1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1|:RuleChecker().0 Selected:0,2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2|:TraceNowJewelObj().0 JewelType:1 0,3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3|:TraceNowJewelObj().0 JewelType:1 0,4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4|:TraceNowJewelObj().0 JewelType:1 0,2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5|:RuleChecker().0 Pointer:3,0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6|:RuleChecker().0 Selected:2,0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7|:TraceNowJewelObj().0 JewelType:2 2,0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8|:TraceNowJewelObj().0 JewelType:2 0,0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+9|:TraceNowJewelObj().0 JewelType:2 1,0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10|:RuleChecker().0 Pointer:4,7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+11|:RuleChecker().0 Selected:4,8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12|:TraceNowJewelObj().0 JewelType:2 4,8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+13|:TraceNowJewelObj().0 JewelType:2 5,8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+14|:TraceNowJewelObj().0 JewelType:2 6,8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15|:TraceNowJewelObj().0 JewelType:4 6,8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16|:TraceNowJewelObj().0 JewelType:4 6,7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+17|:TraceNowJewelObj().0 JewelType:4 6,6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 6884 -> priority: 1 
+  Thread -> id: 6bac -> priority: 1 
