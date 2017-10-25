@@ -230,5 +230,5 @@ private static String[] newPokers() {
 	System.arraycopy(wang, 0, poker, i*4+2, 2);
 	return poker;
 	}
-
+//假装更改过了。
 }
